@@ -1,0 +1,14 @@
+[
+  {
+    "title": "First Title",
+    "key": "first-title",
+    "date": 1644317239517,
+    "description": "This is a description of an article"
+  },
+  {
+    "title": "Another Title",
+    "key": "another-title",
+    "date": 1644317239517,
+    "description": "This is another description of another article"
+  }
+]
