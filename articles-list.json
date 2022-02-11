@@ -4,15 +4,76 @@
     "key": "first-title",
     "date": 1644317239517,
     "description": "This is a description of an article",
-    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "articleUrl": "https://raw.githubusercontent.com/CondensedMilk7/mock-articles/master/first-title.md"
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
     "title": "Another Title",
     "key": "another-title",
     "date": 1644319783168,
     "description": "This is another description of another article",
-    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "articleUrl": "https://raw.githubusercontent.com/CondensedMilk7/mock-articles/master/another-title.md"
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 3",
+    "key": "title-3",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 4",
+    "key": "title-4",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 5",
+    "key": "title-5",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 6",
+    "key": "title-6",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 7",
+    "key": "title-7",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 8",
+    "key": "title-8",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 9",
+    "key": "title-9",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 9",
+    "key": "title-9",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Title 10",
+    "key": "title-10",
+    "date": 1644598133548,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   }
 ]
