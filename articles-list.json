@@ -3,12 +3,16 @@
     "title": "First Title",
     "key": "first-title",
     "date": 1644317239517,
-    "description": "This is a description of an article"
+    "description": "This is a description of an article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "articleUrl": "https://raw.githubusercontent.com/CondensedMilk7/mock-articles/master/first-title.md"
   },
   {
     "title": "Another Title",
     "key": "another-title",
-    "date": 1644317239517,
-    "description": "This is another description of another article"
+    "date": 1644319783168,
+    "description": "This is another description of another article",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "articleUrl": "https://raw.githubusercontent.com/CondensedMilk7/mock-articles/master/another-title.md"
   }
 ]
