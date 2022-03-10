@@ -23,9 +23,9 @@ In summary, for Freud, object is a medium of drive arousal and reduction, which 
 Melanie Klein was one of Karl Abraham’s students, who made great advancements in psychoanalysis. Her vision of human mind contains many modifications of Freudian theory. Among them, most interesting for this topic are concepts such as inner objects and phantasy (written with "ph" to differentiate it from the classical understanding of "fantasy"). 
 Freud describes fantasy as a result of frustration from unfulfilled gratification. In his theory, fantasy is an alternative of direct drive gratification. Klein’s vision of the phantasy introduces elements which Freud didn't pay attention to:
 
-* elaborate unconscious fantasy apart from specific and conscious compensation of frustrated desire;
-* A reservoir of unconscious images and knowledge for phantasy to draw on, possessed by child by virtue of a phylogenic inheritance;
-* Phantasy, which serves not a substitute for, but as an accompaniment to, actual gratification.
+- elaborate unconscious fantasy apart from specific and conscious compensation of frustrated desire;
+- A reservoir of unconscious images and knowledge for phantasy to draw on, possessed by child by virtue of a phylogenic inheritance;
+- Phantasy, which serves not a substitute for, but as an accompaniment to, actual gratification.
 
 Freud's notion of parent's inner "voices", described as images and values, is limited within the boundaries of super-ego. Klein's development of that concept is related to her usage of phantasy with broader meaning. According to her description of Oedipus complex, a child's life is full of elaborate, mostly sadistic and erotic phantasies directed at his parents.
 
